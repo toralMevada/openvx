@@ -11,7 +11,11 @@ int main{
 	
 }
 
+
 int new_feature(){
 	printf("adding new feature\n");
+}
+int advance_feature(){
+
 	
 }
