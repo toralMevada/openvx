@@ -10,3 +10,8 @@ int main{
 		function_1();
 	
 }
+
+int new_feature(){
+	printf("adding new feature\n");
+	
+}
