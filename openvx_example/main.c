@@ -9,6 +9,8 @@ int main{
 		function_2();
 		function_1();
 		function_3();
+		function_4();
+		function_5();
 	
 }
 
