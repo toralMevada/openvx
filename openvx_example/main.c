@@ -8,6 +8,7 @@ int main{
 		print("forth element of array is %d",array[3]);
 		function_2();
 		function_1();
+		function_3();
 	
 }
 
